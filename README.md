@@ -1,24 +1,28 @@
 
-Amazon Sales Dashboard using Tableau
+**Amazon Sales Dashboard using Tableau**
 
-Description:
+---
+
+
+
+**Description:**
 
 This interactive Tableau dashboard visualizes Amazon's sales data to provide actionable insights into order quantities, revenue trends, shipping performance, and regional distribution.
 It helps stakeholders monitor performance, detect bottlenecks, and make data-driven business decisions.
 
-🧰 Tech Stack:
+**Tech Stack:**
 
-Visualization Tool: Tableau
+**Visualization Tool:** Tableau
 
-Data Preparation: Excel/CSV files (can be integrated with SQL)
+**Data Preparation:** Excel/CSV files (can be integrated with SQL)
 
-Platform: Windows/Mac with Tableau Desktop
+**Platform:** Windows/Mac with Tableau Desktop
 
-📂 Data Source:
+ **Data Source:**
 
 Sales transaction data from Amazon
 
-Includes fields such as:
+**Includes fields such as:**
 
 Order quantity, shipping status
 
@@ -30,21 +34,21 @@ Geographic data (State-level)
 
 B2B transaction flags
 
-🌟 Features / Highlights:
+**Features / Highlights:**
 
-📅 Weekly Trends: Visualize weekly sales and order quantities by category
+ Weekly Trends: Visualize weekly sales and order quantities by category
 
-📦 Shipping Analysis: Breakdown of shipped, unshipped, and cancelled orders
+Shipping Analysis: Breakdown of shipped, unshipped, and cancelled orders
 
-🛒 B2B Insights: Sales volume split between B2B and regular customers
+ B2B Insights: Sales volume split between B2B and regular customers
 
-🌍 State-wise Quantity Map: Interactive map showing order distribution by region
+ State-wise Quantity Map: Interactive map showing order distribution by region
 
-🔢 Top States Performance: Filtered insights by shipment service level and category
+Top States Performance: Filtered insights by shipment service level and category
 
-🔁 Status Breakdown: Granular view of order statuses like 'Delivered', 'Damaged', 'Lost in Transit'
+ Status Breakdown: Granular view of order statuses like 'Delivered', 'Damaged', 'Lost in Transit'
 
-📸 Demo
+ **Demo**
 
 🔹 Full Dashboard View
 
