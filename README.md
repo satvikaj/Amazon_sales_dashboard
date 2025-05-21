@@ -69,3 +69,5 @@ Sales transaction data from Amazon, including:
 > This dashboard was designed in Tableau and exported for reporting purposes.  
 > In the interactive Tableau environment, you can **hover**, **filter**, and **drill down** on each component.
 
+✅ **Note**: The image shown above is a static export.  
+To explore the interactive version, view the published Tableau workbook on [Tableau Public]([https://public.tableau.com/app/profile/your-profile-name/viz/your-workbook-name](https://public.tableau.com/views/amazonsalesdashboard_17417985763600/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)).
