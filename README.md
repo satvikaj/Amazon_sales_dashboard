@@ -64,7 +64,8 @@ Sales transaction data from Amazon, including:
 
 ### 🔹 Full Dashboard View
 
-![Amazon Sales Dashboard](Amazon%20sales%20Dashboard.png)
+![Amazon Sales Dashboard](https://github.com/satvikaj/Amazon_sales_dashboard/blob/main/Amazon%20sales%20Dashboard.png?raw=true)
 
 > This dashboard was designed in Tableau and exported for reporting purposes.  
-> In the interactive Tableau environment, you can **hover**, **filter**, and
+> In the interactive Tableau environment, you can **hover**, **filter**, and **drill down** on each component.
+
