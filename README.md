@@ -1,55 +1,70 @@
-
-**Amazon Sales Dashboard using Tableau**
+# 📊 Amazon Sales Dashboard using Tableau
 
 ---
 
+## 📝 Description
 
+This interactive **Tableau dashboard** visualizes Amazon's sales data to provide **actionable insights** into:
 
-**Description:**
+- Order quantities  
+- Revenue trends  
+- Shipping performance  
+- Regional distribution  
 
-This interactive Tableau dashboard visualizes Amazon's sales data to provide actionable insights into order quantities, revenue trends, shipping performance, and regional distribution.
-It helps stakeholders monitor performance, detect bottlenecks, and make data-driven business decisions.
+It helps stakeholders **monitor performance**, **detect bottlenecks**, and make **data-driven business decisions**.
 
-**Tech Stack:**
+---
 
-**Visualization Tool:** Tableau
+## 🧰 Tech Stack
 
-**Data Preparation:** Excel/CSV files (can be integrated with SQL)
+- **Visualization Tool**: Tableau  
+- **Data Preparation**: Excel/CSV files (can be integrated with SQL)  
+- **Platform**: Windows/Mac with Tableau Desktop  
 
-**Platform:** Windows/Mac with Tableau Desktop
+---
 
- **Data Source:**
+## 📂 Data Source
 
-Sales transaction data from Amazon
+Sales transaction data from Amazon, including:
 
-**Includes fields such as:**
+- Order quantity  
+- Shipping status  
+- Sales channel (Amazon/Non-Amazon)  
+- Product category  
+- Product size  
+- Order date  
+- Geographic data (State-level)  
+- B2B transaction flags  
 
-Order quantity, shipping status
+---
 
-Sales channel (Amazon/Non-Amazon)
+## 🌟 Features / Highlights
 
-Product category, size, date
+- 📅 **Weekly Trends**  
+  Visualize weekly sales and order quantities by category  
 
-Geographic data (State-level)
+- 📦 **Shipping Analysis**  
+  Breakdown of shipped, unshipped, and cancelled orders  
 
-B2B transaction flags
+- 🛒 **B2B Insights**  
+  Sales volume split between B2B and regular customers  
 
-**Features / Highlights:**
+- 🌍 **State-wise Quantity Map**  
+  Interactive map showing order distribution by region  
 
- Weekly Trends: Visualize weekly sales and order quantities by category
+- 🔢 **Top States Performance**  
+  Filtered insights by shipment service level and product category  
 
-Shipping Analysis: Breakdown of shipped, unshipped, and cancelled orders
+- 🔁 **Status Breakdown**  
+  Granular view of order statuses like *Delivered*, *Damaged*, *Lost in Transit*  
 
- B2B Insights: Sales volume split between B2B and regular customers
+---
 
- State-wise Quantity Map: Interactive map showing order distribution by region
+## 📸 Demo
 
-Top States Performance: Filtered insights by shipment service level and category
+### 🔹 Full Dashboard View
 
- Status Breakdown: Granular view of order statuses like 'Delivered', 'Damaged', 'Lost in Transit'
+![Amazon Sales Dashboard](Amazon%20sales%20Dashboard.png)
 
- **Demo**
-
-🔹 Full Dashboard View
-
-This dashboard was designed in Tableau and exported for reporting purposes. You can hover, filter, and drill down on each component when used in an interactive Tableau environment
+> This dashboard was designed in Tableau and exported for reporting purposes.  
+> In the interactive Tableau environment, you can **hover**, **filter**, and
